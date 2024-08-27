@@ -1,4 +1,4 @@
-# **Tec Research Stay Aug - Dec 2024**  
+# **Tecnológico de Monterrey Research Stay Aug - Dec 2024**  
 **Going Beyond Artificial Intelligence: Artificial Emotions**
 
 This repository documents the **17-week research stay** focusing on developing an unsupervised, scalable, and reliable emotion-tagged model. The project aims to explore and advance the field of Artificial Emotions, with the following key objectives:
