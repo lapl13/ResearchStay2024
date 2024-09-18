@@ -1,4 +1,4 @@
-# ** Week 1: Introduction to Natural Language Processing (NLP) and Python Basics**
+# **Week 1: Introduction to Natural Language Processing (NLP) and Python Basics**
 
 
 ## **Objectives:**
