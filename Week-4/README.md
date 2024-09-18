@@ -32,4 +32,4 @@ We estimate the shape and scale parameters of a gamma distribution. The shape pa
 
 ## **Self-Researched Readings:**  
 
-[Recent Advances in Stochastic Gradient Descent in Deep Learning]([https://github.com/rycolab/ngram_regularizers](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdpi.com/2227-7390/11/3/682&ved=2ahUKEwja8qqYk82IAxUv4ckDHS02C0wQFnoECBUQAQ&usg=AOvVaw0hSJwvpWDvVG7Vv1PebMLb))
+[Recent Advances in Stochastic Gradient Descent in Deep Learning](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdpi.com/2227-7390/11/3/682&ved=2ahUKEwja8qqYk82IAxUv4ckDHS02C0wQFnoECBUQAQ&usg=AOvVaw0hSJwvpWDvVG7Vv1PebMLb)
