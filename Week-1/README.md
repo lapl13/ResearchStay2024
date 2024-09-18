@@ -10,16 +10,13 @@ This week, we delve into NLP, machine learning, and brush up on our python basic
 [Introduction to Natural Language Processing
 ](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub)
 
-[Commercial applications of Natural Language Processing]
-(https://dl.acm.org/doi/pdf/10.1145/219717.219778)
+[Commercial applications of Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/219717.219778)
 
-[Natural language processing: an introduction]
-(https://academic.oup.com/jamia/article/18/5/544/829676?login=false)
+[Natural language processing: an introduction](https://academic.oup.com/jamia/article/18/5/544/829676?login=false)
 
 ## **Self-Researched Readings:**  
 
-[An argumentative approach to assessing natural language usage based on the web corpus]
-(https://www.scopus.com/record/display.uri?eid=2-s2.0-85017389364&origin=resultslist&sort=plf-f&cite=2-s2.0-0029405744&src=s&nlo=&nlr=&nls=&imp=t&sid=a5dc54a38232eca6f89dbb6b17e01d66&sot=cite&sdt=a&sl=0&relpos=23&citeCnt=22&searchTerm=)
+[An argumentative approach to assessing natural language usage based on the web corpus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85017389364&origin=resultslist&sort=plf-f&cite=2-s2.0-0029405744&src=s&nlo=&nlr=&nls=&imp=t&sid=a5dc54a38232eca6f89dbb6b17e01d66&sot=cite&sdt=a&sl=0&relpos=23&citeCnt=22&searchTerm=)
 
 [NLP commercialization in the last 25 years](https://link.springer.com/chapter/10.1007/978-3-030-20257-6_17)
 
