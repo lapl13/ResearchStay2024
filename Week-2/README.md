@@ -9,7 +9,7 @@ We learned how to prepare textual data for analysis by performing essential prep
 
 ## **Professor Provided Readings:**
 
-[What is a word, What is a sentence? Problems of Tokenization] (https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa80793d1d41d5241017a8fc755b7efc362a6439)
+[What is a word, What is a sentence? Problems of Tokenization](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa80793d1d41d5241017a8fc755b7efc362a6439)
 
 [Text preprocessing for text mining in organizational research](https://journals.sagepub.com/doi/pdf/10.1177/1094428120971683)
 
