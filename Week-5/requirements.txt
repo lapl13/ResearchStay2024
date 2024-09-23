@@ -1,0 +1,16 @@
+certifi
+charset-normalizer
+filelock
+idna
+Jinja2
+MarkupSafe
+mpmath
+networkx
+numpy
+Pillow
+requests
+sympy
+torch
+torchvision
+typing_extensions
+urllib3
