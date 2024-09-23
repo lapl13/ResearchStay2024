@@ -49,4 +49,4 @@ Testing the Trained Model: After training, we evaluate the GRU model's performan
 
 ## **Self Researched Readings:**
 
-[LSTM and GRU Neural Networks as Models of Dynamical Processes Used in Predictive Control: A Comparison of Models Developed for Two Chemical Reactors]([https://www.mdpi.com/2076-3417/13/5/3186](https://www.mdpi.com/1424-8220/21/16/5625))
+[LSTM and GRU Neural Networks as Models of Dynamical Processes Used in Predictive Control: A Comparison of Models Developed for Two Chemical Reactors](https://www.mdpi.com/1424-8220/21/16/5625)
