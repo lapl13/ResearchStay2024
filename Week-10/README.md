@@ -38,8 +38,11 @@ This example demonstrates the use of a simple feedforward neural network for sen
 
 ## **Professor Provided Readings:**
 
-- [Affective Text: A Benchmark for Sentiment Analysis](https://aclanthology.org/W04-1013)
-- [Deep Learning for Sentiment Analysis: A Survey](https://arxiv.org/abs/1404.2826)
+- [Affective Computing: From Laughter to IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5565330)
+- [Affective Computing: a review](http://www.nlpr.ia.ac.cn/2005papers/gjhy/gh91.pdf)
+- [Deep learning for sentiment analysis](https://wires.onlinelibrary.wiley.com/doi/am-pdf/10.1002/widm.1253)
+
+
 
 ## **Self Researched Readings:**
 
