@@ -36,8 +36,8 @@ This example covers the training process for Encoder-Decoder models with attenti
 
 ## **Professor Provided Readings:**
 
-- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+- [Transfer learning](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/torrey.handbook09.pdf)
+- [Emotion detection in text: a review](https://arxiv.org/pdf/1806.00674.pdf)
 
 ## **Self Researched Readings:**
 
