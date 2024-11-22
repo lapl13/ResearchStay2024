@@ -37,8 +37,9 @@ This example provides a detailed look at training Seq2Seq models with attention 
 
 ## **Professor Provided Readings:**
 
-- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
-- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction](https://arxiv.org/pdf/1604.04677.pdf)
+- [Understanding How Encoder-Decoder Architectures Attend](https://proceedings.neurips.cc/paper_files/paper/2021/file/ba3c736667394d5082f86f28aef38107-Paper.pdf)
+- [Evaluating Sequence-to-Sequence Models for Handwritten Text Recognition](https://arxiv.org/pdf/1903.07377.pdf)
 
 ## **Self Researched Readings:**
 
