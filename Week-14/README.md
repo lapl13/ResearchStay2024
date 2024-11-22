@@ -38,8 +38,10 @@ This example focuses on fine-tuning a pre-trained model for healthcare-related t
 
 ## **Professor Provided Readings:**
 
-- [Transfer Learning for NLP](https://ruder.io/transfer-learning/)
-- [Language Models Are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [Using corpora in machine-learning chatbot systems]([https://ruder.io/transfer-learning/](https://d1wqtxts1xzle7.cloudfront.net/47822392/Using_corpora_in_machine-learning_chatbo20160805-6451-13l2mjr-libre.pdf?1470426979=&response-content-disposition=inline%3B+filename%3DUsing_corpora_in_machine_learning_chatbo.pdf&Expires=1691349264&Signature=Ndyv2Bz9KIEWavyG3ZOXbGkhtJKibBRSobPXdMIyp6Od9M8-Z3X-5~iA2nogQRe11U8DlL9ZBsybO3hy1LF4~9TKJ~COeoqyP1gKce5l4ijn4RHgL9l~Q28Y5YBvm-tPiFPNn-tjlRnakuO8HEvgHNJfmUL82yXkyR-fk3VUAqSmReUcUztbzcHC~f6G-GYz0yBVZzH9cEgbbB6L13tkXnOUArCbr4leVDRdGVgXGNRWiu0ZNjb~lAVpkOjEqwY9JIZI53-hJXXVbrXPkeuEu-Pborr-0nze2zEBA1COlATMQLPP-ggj2IXCIILtT538WKrPpD22dYuCXf4FxYlwjg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))
+- [An Overview of Chatbot Technology]([https://arxiv.org/abs/2005.14165](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31))
+- [In bot we trust: A new methodology of chatbot performance measures](https://d1wqtxts1xzle7.cloudfront.net/60691006/1-s2.0-S000768131930117X-main20190924-129154-1x6yb13-libre.pdf?1569347288=&response-content-disposition=inline%3B+filename%3DIn_bot_we_trust_A_new_methodology_ofchat.pdf&Expires=1691349386&Signature=Z8gVCqvYDuCDQ~SDS8ixoO1jF4ccifVsZHFLwgAQt4CoICeDk3PaATpcAiauSlvF~bXED8rg5-48d-XpnqmSKyR-5H0NBMVdoo954FDvdEpCZiIOOwpepZ5Y6qU8M4ydoM5u9mp1kSbM02erUv6jLq2p9vgcIPisT1cMBAT10MnAXoEC17jxdv2Le-hjEuKqpwnHqQGRJEW54jQ~Usr6c9q~hBEQiiM7MabxVavwbgPp1MlLcbWvPYO2yMvECAYgJpIDd-w2ovBOljAzeXVEdqcA2NPYA3OxRiFaJqEoiSTEOTrGOBgY5W~IHOG~FFtGGHxXQr8aEBO9hrlVNPzH2g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
 
 ## **Self Researched Readings:**
 
