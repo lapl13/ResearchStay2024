@@ -37,8 +37,9 @@ This example focuses on implementing Luong Attention, a simpler and more computa
 
 ## **Professor Provided Readings:**
 
-- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+- [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism](https://media.proquest.com/media/hms/PFT/1/MBNNJ?_s=gffnUf2uaR6mZK4Gt89qM%2BdO74M%3D)
+- [Attention mechanisms in computer vision: A survey](https://link.springer.com/article/10.1007/s41095-022-0271-y)
 
 ## **Self Researched Readings:**
 
