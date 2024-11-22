@@ -38,8 +38,8 @@ This example illustrates the evaluation of fine-tuned transformer models using s
 
 ## **Professor Provided Readings:**
 
--[Sentiment Analysis Based on Deep Learning: A Comparative Study](https://www.mdpi.com/2079-9292/9/3/483)
--[Deep learning for sentiment analysis: successful approaches and future challenges](https://kd.nsfc.gov.cn/paperDownload/1000014123590.pdf)
+- [Sentiment Analysis Based on Deep Learning: A Comparative Study](https://www.mdpi.com/2079-9292/9/3/483)
+- [Deep learning for sentiment analysis: successful approaches and future challenges](https://kd.nsfc.gov.cn/paperDownload/1000014123590.pdf)
 -[Performance evaluation and comparison using deep learning techniques in sentiment analysis](https://web.archive.org/web/20210708003551id_/https://irojournals.com/jscp/V3/I2/06.pdf)
 
 
