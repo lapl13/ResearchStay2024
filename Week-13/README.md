@@ -38,8 +38,8 @@ This example extends the use of BERT to another domain, such as financial text. 
 
 ## **Professor Provided Readings:**
 
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-- [Fine-Tuning Pretrained Language Models: A Study of BERT](https://aclanthology.org/D19-1006/)
+- [A Text Abstraction Summary Model Based on BERT Word Embedding and Reinforcement Learning](https://www.mdpi.com/2076-3417/9/21/4701)
+- [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings]([https://aclanthology.org/D19-1006/](https://arxiv.org/pdf/1909.10430))
 
 ## **Self Researched Readings:**
 
