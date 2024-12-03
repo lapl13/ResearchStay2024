@@ -1,0 +1,10 @@
+Approach,Metric,Accuracy (%)
+Rule-Based,Lowest Accuracy,55.6
+Rule-Based,Average Accuracy,57.614999999999995
+Rule-Based,Highest Accuracy,59.75
+Neural Network,Lowest Accuracy,80.7
+Neural Network,Average Accuracy,85.37
+Neural Network,Highest Accuracy,88.0
+Deep Neural Network,Lowest Accuracy,34.75
+Deep Neural Network,Average Accuracy,62.92
+Deep Neural Network,Highest Accuracy,89.4
